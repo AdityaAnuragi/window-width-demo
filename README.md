@@ -1,4 +1,5 @@
 This repo shows why using window.innerWidth to get the width of the window could result in issues
+The code can be viewed in the master branch
 
 This issue with using window.innerWidth will only occur if -
   the site has a horizontal scroll bar
